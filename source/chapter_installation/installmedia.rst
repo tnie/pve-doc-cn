@@ -4,6 +4,7 @@
 可以从http://www.proxmox.com/en/downloads/category/iso-images-pve下载ISO镜像。
 
 目前官方提供的Proxmox VE安装介质是一种混合型的ISO镜像。有两种使用方法：
+
 - 将ISO镜像烧录到CD上使用
 - 将裸区块镜像（IMG）文件直接复制到闪存介质上（USB盘）
 
